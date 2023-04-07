@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\shopbancam.props" />
+</Project>
